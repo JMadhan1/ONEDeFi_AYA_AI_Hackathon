@@ -21,7 +21,7 @@
 ## 🚀 Project Information
 
 **Primary Contact**: J Madhan - [jmadhanplacement@gmail.com](mailto:jmadhanplacement@gmail.com) | [@MadhanJ](https://t.me/MadhanJ)  
-**Team**: Solo Developer  
+**Team**:J Madhan Team  AI LONE STARS
 **Project Title**: ONEDeFi - AI-Powered Multi-Chain DeFi MCP Server  
 **Repository**: [github.com/JMadhan1/ONEDeFi_AYA_AI_Hackathon](https://github.com/JMadhan1/ONEDeFi_AYA_AI_Hackathon)
 
