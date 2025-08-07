@@ -12,6 +12,7 @@
 [![Polygon](https://img.shields.io/badge/Polygon-Supported-8247E5?style=for-the-badge&logo=polygon)](https://polygon.technology)
 
 **🚀 Revolutionizing DeFi with AI-Powered Multi-Chain Operations**
+
  • [🐛 Report Bug](https://github.com/JMadhan1/ONEDeFi_AYA_AI_Hackathon/issues) • [💡 Request Feature](https://github.com/JMadhan1/ONEDeFi_AYA_AI_Hackathon/issues)
 
 </div>
